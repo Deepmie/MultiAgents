@@ -1,0 +1,10 @@
+gpt:
+ api1:
+  api_key: ${OPENAI_API_1}
+  base_url: https://api.gpts.vin/v1
+ api2:
+  api_key: ${OPENAI_API_2}
+  base_url: https://api.gpts.vin/v1
+ api3:
+  api_key: ${OPENAI_API_3}
+  base_url: https://api.gpts.vin/v1
